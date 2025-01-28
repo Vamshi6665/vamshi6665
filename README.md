@@ -1,4 +1,5 @@
-## Hi Github Users, I'm Vamshi Krishna, and I'm a master's student at Northwest Missouri State University.I've previously worked for DXC Technologies. Geetanjali College of Engineering and Technology is where I earned my bachelor's degree in mechanical engineering. 👋
+## Hi Github Users, I'm Vamshi Krishna 👋
+#### I'm a master's student at Northwest Missouri State University.I've previously worked for DXC Technologies. Geetanjali College of Engineering and Technology is where I earned my bachelor's degree in mechanical engineering
 
 <!--
 **Vamshi6665/vamshi6665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
