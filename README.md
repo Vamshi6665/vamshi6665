@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data analysis and Power Bi projects.
 - 🤔 I’m looking for help with the emerging new technologies and tools of AI.
 - 💬 Ask me about food,travel,bike related stuff.
-- 📫 reach me: email me on vamshi6665@gmail.com
+- 📫 email me on vamshi6665@gmail.com
 
 <!--
 **Vamshi6665/vamshi6665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
