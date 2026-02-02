@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Github Users, I'm Vamshi Krishna 👋<br>I'm a master's student at Northwest Missouri State University.I've previously worked for DXC Technologies. Geetanjali College of Engineering and Technology is where I earned my bachelor's degree in mechanical engineering.<br>🔭 I’m currently working on Edge care Triage app and other course related work<br>🌱 I’m currently learning Github and markdown.<br>👯 I’m looking to collaborate on data analysis and Power Bi projects.<br>🤔 I’m looking for help with the emerging new technologies and tools of AI.<br>💬 Ask me about food,travel,bike related stuff.<br>📫 email me on vamshi6665@gmail.com
+Hi Github Users, I'm Vamshi Krishna 👋<br>I'm a master's student at Northwest Missouri State University.I've previously worked for DXC Technologies. Geetanjali College of Engineering and Technology is where I earned my bachelor's degree in mechanical engineering.<br>🔭 I’m currently working on Edge care Triage app and other course related work<br>🌱 I’m currently learning Github and markdown.<br>👯 I’m looking to collaborate on data analysis and Power Bi projects.<br>🤔 I’m looking for help with the emerging new technologies and tools of AI.<br>💬 Ask me about food,travel,bike related stuff.<br>
 
 
 # 💻 Tech Stack:
